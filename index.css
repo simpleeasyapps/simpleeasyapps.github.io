@@ -1,0 +1,7 @@
+/* .apps-list h3:hover{
+    color: #F35555 !important; 
+} */
+
+.apps-list .col-2:hover{
+    background-color: #E6E6E6 !important; 
+}
