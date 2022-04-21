@@ -1,8 +1,12 @@
-/* 
+/*
 # simpleeasyapps.github.io
 
 Copyright:
-Nobody has permission to copy, distribute or modify these websites, software, programs, codes, assets, repositories, or files.
+It is illegal to copy, distribute or modify websites, software, programs, applications, codes, assets, repositories, or any other files of Simple Easy Apps.
 
-© 2022 Simple Easy Apps. All rights reserved. 
+It is illegal to use "Paid Software" - "Paid Programs" - "Paid Applications" and any other "Paid Services" of Simple Easy Apps for Free.
+
+Software Piracy is illegal.
+
+© 2022 Simple Easy Apps. All rights reserved.  
 */
