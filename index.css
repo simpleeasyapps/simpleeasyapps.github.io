@@ -10,8 +10,21 @@ Nobody has permission to copy, distribute or modify these websites, software, pr
     background-color: #E6E6E6 !important; 
 }
 
-footer{
-    position: fixed !important;
-    left: 0 !important;
-    bottom: 0 !important;
+html, body{
+    height: 100% !important;
+    margin: 0 !important;
+}
+
+.content{
+    min-height: 100% !important;
+}
+
+.content-inside{
+    padding: 20px !important;
+    padding-bottom: 50px;
+}
+
+.footer{
+    height: 50px;
+    margin-top: -50px;
 }
