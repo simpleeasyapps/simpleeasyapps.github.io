@@ -1,11 +1,11 @@
-<!--
+<!-- 
 # simpleeasyapps.github.io
 
 Copyright:
-Nobody can copy, distribute or modify this software, website, code, assets, repository.
+Nobody has permission to copy, distribute or modify these websites, software, programs, codes, assets, repositories, or files.
 
-© 2022 Simple Easy Apps. All rights reserved. 
--->
+© 2022 Simple Easy Apps. All rights reserved.  
+ -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -26,9 +26,9 @@ Nobody can copy, distribute or modify this software, website, code, assets, repo
     <title>Simple App Studio</title>
 </head>
 
-<body>
+<body class="container">
     <!-- // Navbar -START \\ -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container-fluid mx-lg-5">
             <a class="navbar-brand" href="index.html">
                 <img src="./assets/simple_easy_apps_logo.svg" alt="" width="25" height="25"
@@ -42,7 +42,7 @@ Nobody can copy, distribute or modify this software, website, code, assets, repo
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Apps</a>
+                        <a class="nav-link active" aria-current="apps" href="#apps">Apps</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Privacy Policy</a>
@@ -60,26 +60,45 @@ Nobody can copy, distribute or modify this software, website, code, assets, repo
     <!-- \\ Navbar -END // -->
 
     <!-- // Hero Section -START \\ -->
-    <div class="container-fluid">
-        <img src="./assets/simple_easy_apps_hero_image.svg" alt="Simple Easy Apps Hero Image" class="img-fluid">
+
+    <div class="mx-auto row">
+        <div class="col-12 col-md-6">
+            <img src="./assets/simple_easy_apps_hero_text.svg" alt="Simple Easy Apps Hero Image" class="img-fluid">
+        </div>
+        <div class="col-12 col-md-6">
+            <img src="./assets/simple_easy_apps_hero_image.svg" alt="Simple Easy Apps Hero Image" class="img-fluid">
+        </div>
     </div>
+
+
+    <!-- <div class="container-fluid">
+        
+    </div> -->
     <!-- \\ Hero Section -END // -->
 
     <!-- // Apps Section -START \\ -->
-    <div class="container-fluid px-5 shadow-sm">
+    <div class="app-section container">
         <!-- // App Title -START \\ -->
-        <h2 style="color: #F35555;" class="text-center mb-5">• Apps •</h2>
+        <h2 id="apps" style="color: #F35555;" class="text-center mt-5 mb-5">• Apps •</h2>
         <!-- \\ App Title -END // -->
 
         <!-- // App List -START \\ -->
-        <div class="apps-list pb-5">
+        <div class="apps-list">
             <div class="row">
-                <div class="col-2 pt-4">
-                    <a href="" class="text-decoration-none">
-                        <img src="./assets/myprofile_logo.svg" alt="My Profile Logo" class="img-thumbnail">
-                        <h3 class="text-center mt-1" style="color: #0085FF;">
-                            My Profile
-                        </h3>
+
+                <div class="col-6 col-md-4 col-lg-2 d-block text-decoration-none" href="#">
+                    <a href="#" class="text-decoration-none link-dark">
+                        <div class="card">
+                            <div class=" pt-3 px-3">
+                                <img src="./assets/myprofile_logo.svg" class="card-img-top" alt="My Profile Logo">
+                                <div class="card-body">
+                                    <h5 class="card-title">My Profile</h5>
+                                    <p class="card-text pb-3">Manage your profile information.</p>
+
+                                    <a href="#" class="btn btn-outline-danger">Details</a>
+                                </div>
+                            </div>
+                        </div>
                     </a>
                 </div>
             </div>
@@ -89,7 +108,7 @@ Nobody can copy, distribute or modify this software, website, code, assets, repo
     <!-- \\ Apps Section -END // -->
 
     <!-- // Footer -START \\ -->
-    <div class="container-fluid px-5 pt-3 text-center">
+    <div class="mt-5 px-5 pt-5 text-center">
         <p>© 2022 Simple Easy Apps. All rights reserved.</p>
     </div>
     <!-- \\ Footer -END // -->

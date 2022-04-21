@@ -6,15 +6,3 @@ Nobody has permission to copy, distribute or modify these websites, software, pr
 
 © 2022 Simple Easy Apps. All rights reserved. 
 */
-
-/* .apps-list h3:hover{
-    color: #F35555 !important; 
-} */
-
-.apps-list .col-2:hover{
-    background-color: #E6E6E6 !important; 
-}
-
-a{
-    color: #000000;
-}
