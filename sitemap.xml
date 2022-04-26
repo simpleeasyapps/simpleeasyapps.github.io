@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://simpleeasyapps.github.io/</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/index.html</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/website-privacy-policy.html</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/website-terms-of-use.html</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/about.html</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/myprofile/myprofile.html</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/copyright-notice.html</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/website-privacy-policy</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/myprofile/myprofile-privacy-policy.html</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://simpleeasyapps.github.io/myprofile/myprofile-terms-of-use.html</loc>
+  <lastmod>2022-04-26T20:11:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
