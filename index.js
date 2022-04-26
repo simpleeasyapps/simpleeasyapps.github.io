@@ -10,3 +10,7 @@ Software Piracy is illegal.
 
 © 2022 Simple Easy Apps. All rights reserved.  
 */
+
+var myCarousel = document.querySelector('#carouselExampleIndicators');
+var carousel = new bootstrap.Carousel(myCarousel);
+
