@@ -14,6 +14,14 @@ Software Piracy is illegal.
     background-color: #E6E6E6 !important; 
 }
 
+.copyright-link{
+    color: #F35555 !important;
+}
+
+.copyright-link:hover{
+    color: #0085FF !important;
+}
+
 html, body{
     height: 100% !important;
     margin: 0 !important;
