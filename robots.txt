@@ -1,0 +1,4 @@
+Sitemap: https://simpleeasyapps.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
